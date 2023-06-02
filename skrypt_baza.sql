@@ -18,7 +18,7 @@ USE `mydb` ;
 -- Table `mydb`.`country`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`country` (
-  `country_id` INT NOT NULL,
+  `country_id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`country_id`),
   UNIQUE INDEX `idcountry_UNIQUE` (`country_id` ASC) VISIBLE,
@@ -30,7 +30,7 @@ ENGINE = InnoDB;
 -- Table `mydb`.`conflict`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`conflict` (
-  `conflicts_id` INT NOT NULL,
+  `conflicts_id` INT NOT NULL AUTO_INCREMENT,
   `date_start` VARCHAR(45) NOT NULL,
   `date_end` VARCHAR(45) NOT NULL,
   `country_country_id` INT NOT NULL,
@@ -49,9 +49,8 @@ ENGINE = InnoDB;
 -- Table `mydb`.`resource`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`resource` (
-  `resource_id` INT NOT NULL,
+  `resource_id` INT NOT NULL AUTO_INCREMENT,
   `name` VARCHAR(45) NOT NULL,
-  `price` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`resource_id`),
   UNIQUE INDEX `resource_id_UNIQUE` (`resource_id` ASC) VISIBLE)
 ENGINE = InnoDB;
@@ -61,8 +60,9 @@ ENGINE = InnoDB;
 -- Table `mydb`.`resource_prices`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `mydb`.`resource_prices` (
-  `resource_prices_id` INT NOT NULL,
+  `resource_prices_id` INT NOT NULL AUTO_INCREMENT,
   `date` VARCHAR(45) NOT NULL,
+  `price` VARCHAR(45) NOT NULL,
   `resource_resource_id` INT NOT NULL,
   PRIMARY KEY (`resource_prices_id`),
   UNIQUE INDEX `resource_prices_id_UNIQUE` (`resource_prices_id` ASC) VISIBLE,
