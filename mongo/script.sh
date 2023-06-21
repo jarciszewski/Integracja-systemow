@@ -1,0 +1,3 @@
+mongoimport --db auth_react --collection golds --file gold3.csv --type=csv --fields "Date, Price"
+#mongoimport --db auth_react --collection wars --file wars.csv --type=csv --fields "Name, Start, End"
+mongoimport --db auth_react --collection wars --file conflict_data.csv --type=csv --fields "conflict_id,location,side_a,side_a_id,side_a_2nd,side_b,side_b_id,side_b_2nd,incompatibility,territory_name,year,intensity_level,cumulative_intensity,type_of_conflict,start_date,start_prec,start_date2,start_prec2,ep_end,ep_end_date,ep_end_prec,gwno_a,gwno_a_2nd,gwno_b,gwno_b_2nd,gwno_loc,region,version"
