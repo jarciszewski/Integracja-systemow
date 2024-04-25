@@ -1,0 +1,637 @@
+[
+  {
+    "name": "Second Congo War",
+    "start": 1998,
+    "end": 2003
+  },
+  {
+    "name": "Vietnam War",
+    "start": 1955,
+    "end": 1975
+  },
+  {
+    "name": "Biafra War",
+    "start": 1967,
+    "end": 1970
+  },
+  {
+    "name": "War in Afghanistan",
+    "start": 1978,
+    "end": "present"
+  },
+  {
+    "name": "War on Terror",
+    "start": 2001,
+    "end": "present"
+  },
+  {
+    "name": "Soviet war in Afghanistan",
+    "start": 1979,
+    "end": 1989
+  },
+  {
+    "name": "Korean War",
+    "start": 1950,
+    "end": 1953
+  },
+  {
+    "name": "Iran–Iraq War",
+    "start": 1980,
+    "end": 1988
+  },
+  {
+    "name": "Angolan Civil War",
+    "start": 1975,
+    "end": 2002
+  },
+  {
+    "name": "Ethiopian Civil War",
+    "start": 1974,
+    "end": 1991
+  },
+  {
+    "name": "Spanish Civil War",
+    "start": 1936,
+    "end": 1939
+  },
+  {
+    "name": "Syrian Civil War",
+    "start": 2011,
+    "end": "present"
+  },
+  {
+    "name": "First Indochina War",
+    "start": 1946,
+    "end": 1954
+  },
+  {
+    "name": "Civil war in Afghanistan",
+    "start": 1989,
+    "end": 1992
+  },
+  {
+    "name": "Algerian War of Independence",
+    "start": 1954,
+    "end": 1962
+  },
+  {
+    "name": "Second Burundian Civil War",
+    "start": 1993,
+    "end": 1993
+  },
+  {
+    "name": "Somali Civil War",
+    "start": 1986,
+    "end": "present"
+  },
+  {
+    "name": "War on Terror",
+    "start": 2001,
+    "end": "present"
+  },
+  {
+    "name": "Colombian conflict",
+    "start": 1964,
+    "end": "present"
+  },
+  {
+    "name": "Algerian Civil War",
+    "start": 1991,
+    "end": 2002
+  },
+  {
+    "name": "War in Darfur",
+    "start": 2003,
+    "end": "present"
+  },
+  {
+    "name": "Iraq War/Third Persian Gulf War",
+    "start": 2003,
+    "end": 2011
+  },
+  {
+    "name": "Winter War",
+    "start": 1939,
+    "end": 1940
+  },
+  {
+    "name": "Iraqi Kurdish conflict",
+    "start": 1918,
+    "end": 2003
+  },
+  {
+    "name": "Internal conflict in Myanmar",
+    "start": 1948,
+    "end": "present"
+  },
+  {
+    "name": "Lebanese Civil War",
+    "start": 1975,
+    "end": 1990
+  },
+  {
+    "name": "Islamic insurgency in the Philippines",
+    "start": 1969,
+    "end": "present"
+  },
+  {
+    "name": "Arab Israeli conflict",
+    "start": 1920,
+    "end": "present"
+  },
+  {
+    "name": "Mexican Drug War",
+    "start": 2006,
+    "end": "present"
+  },
+  {
+    "name": "LRA insurgency",
+    "start": 1987,
+    "end": "present"
+  },
+  {
+    "name": "North Yemen Civil War",
+    "start": 1962,
+    "end": 1970
+  },
+  {
+    "name": "Ugandan Bush War",
+    "start": 1981,
+    "end": 1986
+  },
+  {
+    "name": "Lord's Resistance Army insurgency",
+    "start": 1987,
+    "end": "present"
+  },
+  {
+    "name": "Insurgency in Laos",
+    "start": 1975,
+    "end": 2007
+  },
+  {
+    "name": "Congo Crisis",
+    "start": 1960,
+    "end": 1965
+  },
+  {
+    "name": "Bosnian War",
+    "start": 1991,
+    "end": 1995
+  },
+  {
+    "name": "Arab Israeli conflict",
+    "start": 1948,
+    "end": "present"
+  },
+  {
+    "name": "1991 uprisings in Iraq",
+    "start": 1991,
+    "end": 1991
+  },
+  {
+    "name": "Angolan War of Independence",
+    "start": 1961,
+    "end": 1974
+  },
+  {
+    "name": "Kashmir Conflict",
+    "start": 1947,
+    "end": "present"
+  },
+  {
+    "name": "Sri Lankan Civil War",
+    "start": 1983,
+    "end": 2009
+  },
+  {
+    "name": "Iraq War",
+    "start": 2014,
+    "end": "present"
+  },
+  {
+    "name": "Internal conflict in Peru",
+    "start": 1980,
+    "end": "present"
+  },
+  {
+    "name": "Mozambican War of Independence",
+    "start": 1964,
+    "end": 1974
+  },
+  {
+    "name": "Ituri conflict",
+    "start": 1999,
+    "end": 2007
+  },
+  {
+    "name": "Sierra Leone Civil War",
+    "start": 1991,
+    "end": 2002
+  },
+  {
+    "name": "War in Afghanistan",
+    "start": 2001,
+    "end": "present"
+  },
+  {
+    "name": "War in North West Pakistan",
+    "start": 2004,
+    "end": "present"
+  },
+  {
+    "name": "Kurdish Turkish conflict",
+    "start": 1978,
+    "end": "present"
+  },
+  {
+    "name": "Civil War",
+    "start": 1991,
+    "end": 2002
+  },
+  {
+    "name": "Nagorno Karabakh War",
+    "start": 1988,
+    "end": 1994
+  },
+  {
+    "name": "Iranian Kurdish conflict",
+    "start": 1918,
+    "end": "present"
+  },
+  {
+    "name": "Ethnic conflict in Nagaland",
+    "start": 1954,
+    "end": "present"
+  },
+  {
+    "name": "Soviet Japanese War",
+    "start": 1945,
+    "end": 1945
+  },
+  {
+    "name": "1991 uprisings in Iraq",
+    "start": 1991,
+    "end": 1991
+  },
+  {
+    "name": "CPP NPA NDF rebellion",
+    "start": 1969,
+    "end": "present"
+  },
+  {
+    "name": "Gulf War",
+    "start": 1990,
+    "end": 1991
+  },
+  {
+    "name": "Insurgency in Northeast India",
+    "start": 1964,
+    "end": "present"
+  },
+  {
+    "name": "Shia insurgency in Yemen",
+    "start": 2004,
+    "end": "present"
+  },
+  {
+    "name": "Rhodesian Bush War",
+    "start": 1964,
+    "end": 1979
+  },
+  {
+    "name": "Balochistan conflict",
+    "start": 1948,
+    "end": "present"
+  },
+  {
+    "name": "Croatian War of Independence",
+    "start": 1991,
+    "end": 1995
+  },
+  {
+    "name": "Nepalese Civil War",
+    "start": 1996,
+    "end": 2006
+  },
+  {
+    "name": "Nigerian Sharia conflict",
+    "start": 1953,
+    "end": "present"
+  },
+  {
+    "name": "African Border War",
+    "start": 1966,
+    "end": 1990
+  },
+  {
+    "name": "Mau Uprising",
+    "start": 1952,
+    "end": 1960
+  },
+  {
+    "name": "Republic of the Congo Civil War",
+    "start": 1997,
+    "end": 1999
+  },
+  {
+    "name": "Naxalite Maoist insurgency",
+    "start": 1967,
+    "end": "present"
+  },
+  {
+    "name": "Kurdish separatism in Iran",
+    "start": 1922,
+    "end": "present"
+  },
+  {
+    "name": "Malayan Emergency",
+    "start": 1948,
+    "end": 1960
+  },
+  {
+    "name": "War in Donbass",
+    "start": 2014,
+    "end": "present"
+  },
+  {
+    "name": "Rwandan Civil War",
+    "start": 1990,
+    "end": 1993
+  },
+  {
+    "name": "Libyan Civil War",
+    "start": 2011,
+    "end": 2011
+  },
+  {
+    "name": "Yemeni Civil War",
+    "start": 2015,
+    "end": "present"
+  },
+  {
+    "name": "Chadian Civil War",
+    "start": 2005,
+    "end": 2010
+  },
+  {
+    "name": "Sudanese nomadic conflicts",
+    "start": 2009,
+    "end": "present"
+  },
+  {
+    "name": "South Thailand insurgency",
+    "start": 2004,
+    "end": "present"
+  },
+  {
+    "name": "Casamance conflict",
+    "start": 1982,
+    "end": 2014
+  },
+  {
+    "name": "Libyan Civil War",
+    "start": 2014,
+    "end": "present"
+  },
+  {
+    "name": "Conflict in the Niger Delta",
+    "start": 2004,
+    "end": "present"
+  },
+  {
+    "name": "Al Qaeda insurgency in Yemen",
+    "start": 1992,
+    "end": "present"
+  },
+  {
+    "name": "The Northern Ireland Troubles",
+    "start": 1966,
+    "end": 1998
+  },
+  {
+    "name": "Insurgency in the North Caucasus",
+    "start": 2009,
+    "end": "present"
+  },
+  {
+    "name": "Hungarian Revolution of 1956",
+    "start": 1956,
+    "end": 1956
+  },
+  {
+    "name": "Second Ivorian Civil War",
+    "start": 2010,
+    "end": 2011
+  },
+  {
+    "name": "Iranian Revolution",
+    "start": 1978,
+    "end": 1979
+  },
+  {
+    "name": "Sudan internal conflict",
+    "start": 2011,
+    "end": "present"
+  },
+  {
+    "name": "Sinai insurgency",
+    "start": 2011,
+    "end": "present"
+  },
+  {
+    "name": "Conflict in the Niger Delta",
+    "start": 2004,
+    "end": "present"
+  },
+  {
+    "name": "Israel Gaza conflict",
+    "start": 2014,
+    "end": 2014
+  },
+  {
+    "name": "Aden Emergency",
+    "start": 1963,
+    "end": 1967
+  },
+  {
+    "name": "Six Day War",
+    "start": 2000,
+    "end": 2000
+  },
+  {
+    "name": "South Kyrgyzstan ethnic clashes",
+    "start": 2010,
+    "end": 2010
+  },
+  {
+    "name": "War of Transnistria",
+    "start": 1992,
+    "end": 1992
+  },
+  {
+    "name": "South Yemen insurgency",
+    "start": 2009,
+    "end": "present"
+  },
+  {
+    "name": "M23 rebellion",
+    "start": 2012,
+    "end": 2013
+  },
+  {
+    "name": "Allied Democratic Forces insurgency",
+    "start": 1996,
+    "end": "present"
+  },
+  {
+    "name": "Basque conflict",
+    "start": 1959,
+    "end": 2011
+  },
+  {
+    "name": "Kargil War",
+    "start": 1999,
+    "end": 1999
+  },
+  {
+    "name": "Political violence in Egypt, 2013",
+    "start": 2013,
+    "end": "present"
+  },
+  {
+    "name": "Cabinda conflict",
+    "start": 1994,
+    "end": "present"
+  },
+  {
+    "name": "Djiboutian Civil War",
+    "start": 1991,
+    "end": 1994
+  },
+  {
+    "name": "1991 92 South Ossetia War",
+    "start": 1991,
+    "end": 1992
+  },
+  {
+    "name": "Falklands War",
+    "start": 1982,
+    "end": 1982
+  },
+  {
+    "name": "2011 Egyptian revolution",
+    "start": 2011,
+    "end": 2011
+  },
+  {
+    "name": "Syrian Civil War spillover in Lebanon",
+    "start": 2011,
+    "end": "present"
+  },
+  {
+    "name": "Conflict in Najran, Jizan and Asir",
+    "start": 2015,
+    "end": "present"
+  },
+  {
+    "name": "Indonesia Malaysia confrontation",
+    "start": 1963,
+    "end": 1966
+  },
+  {
+    "name": "Burundian unrest",
+    "start": 2015,
+    "end": "present"
+  },
+  {
+    "name": "Russia Georgia war",
+    "start": 2008,
+    "end": 2008
+  },
+  {
+    "name": "Cyprus crisis",
+    "start": 1955,
+    "end": 1964
+  },
+  {
+    "name": "Sudanese conflict in South Kordofan and Blue Nile",
+    "start": 2011,
+    "end": "present"
+  },
+  {
+    "name": "East Prigorodny Conflict",
+    "start": 1992,
+    "end": 1992
+  },
+  {
+    "name": "M23 rebellion",
+    "start": 2012,
+    "end": "present"
+  },
+  {
+    "name": "RENAMO insurgency",
+    "start": 2013,
+    "end": "present"
+  },
+  {
+    "name": "Turkey ISIL conflict",
+    "start": 2015,
+    "end": "present"
+  },
+  {
+    "name": "Arab separatism in Khuzestan",
+    "start": 1922,
+    "end": "present"
+  },
+  {
+    "name": "Kasaï Central clashes",
+    "start": 2016,
+    "end": "present"
+  },
+  {
+    "name": "ISIL insurgency in Tunisia",
+    "start": 2015,
+    "end": "present"
+  },
+  {
+    "name": "Dissident Irish Republican campaign",
+    "start": 1998,
+    "end": "present"
+  },
+  {
+    "name": "2016 Kasese clashes",
+    "start": 2016,
+    "end": 2016
+  },
+  {
+    "name": "2013 Guinea clashes",
+    "start": 2013,
+    "end": 2013
+  },
+  {
+    "name": "Lahad Datu standoff",
+    "start": 2013,
+    "end": 2013
+  },
+  {
+    "name": "Paraguayan People's Army insurgency",
+    "start": 2005,
+    "end": "present"
+  },
+  {
+    "name": "Ten Day War",
+    "start": 1991,
+    "end": 1991
+  },
+  {
+    "name": "DHKP/C insurgency in Turkey",
+    "start": 1990,
+    "end": "present"
+  },
+  {
+    "name": "2016 Niger Delta conflict",
+    "start": 2016,
+    "end": "present"
+  }
+]

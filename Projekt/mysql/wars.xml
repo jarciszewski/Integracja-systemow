@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <name>Second Congo War</name>
+    <start>1998</start>
+    <end>2003</end>
+  </row>
+  <row>
+    <name>Vietnam War</name>
+    <start>1955</start>
+    <end>1975</end>
+  </row>
+  <row>
+    <name>Biafra War</name>
+    <start>1967</start>
+    <end>1970</end>
+  </row>
+  <row>
+    <name>War in Afghanistan</name>
+    <start>1978</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>War on Terror</name>
+    <start>2001</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Soviet war in Afghanistan</name>
+    <start>1979</start>
+    <end>1989</end>
+  </row>
+  <row>
+    <name>Korean War</name>
+    <start>1950</start>
+    <end>1953</end>
+  </row>
+  <row>
+    <name>Iran–Iraq War</name>
+    <start>1980</start>
+    <end>1988</end>
+  </row>
+  <row>
+    <name>Angolan Civil War</name>
+    <start>1975</start>
+    <end>2002</end>
+  </row>
+  <row>
+    <name>Ethiopian Civil War</name>
+    <start>1974</start>
+    <end>1991</end>
+  </row>
+  <row>
+    <name>Spanish Civil War</name>
+    <start>1936</start>
+    <end>1939</end>
+  </row>
+  <row>
+    <name>Syrian Civil War</name>
+    <start>2011</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>First Indochina War</name>
+    <start>1946</start>
+    <end>1954</end>
+  </row>
+  <row>
+    <name>Civil war in Afghanistan</name>
+    <start>1989</start>
+    <end>1992</end>
+  </row>
+  <row>
+    <name>Algerian War of Independence</name>
+    <start>1954</start>
+    <end>1962</end>
+  </row>
+  <row>
+    <name>Second Burundian Civil War</name>
+    <start>1993</start>
+    <end>1993</end>
+  </row>
+  <row>
+    <name>Somali Civil War</name>
+    <start>1986</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>War on Terror</name>
+    <start>2001</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Colombian conflict</name>
+    <start>1964</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Algerian Civil War</name>
+    <start>1991</start>
+    <end>2002</end>
+  </row>
+  <row>
+    <name>War in Darfur</name>
+    <start>2003</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Iraq War/Third Persian Gulf War</name>
+    <start>2003</start>
+    <end>2011</end>
+  </row>
+  <row>
+    <name>Winter War</name>
+    <start>1939</start>
+    <end>1940</end>
+  </row>
+  <row>
+    <name>Iraqi Kurdish conflict</name>
+    <start>1918</start>
+    <end>2003</end>
+  </row>
+  <row>
+    <name>Internal conflict in Myanmar</name>
+    <start>1948</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Lebanese Civil War</name>
+    <start>1975</start>
+    <end>1990</end>
+  </row>
+  <row>
+    <name>Islamic insurgency in the Philippines</name>
+    <start>1969</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Arab Israeli conflict</name>
+    <start>1920</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Mexican Drug War</name>
+    <start>2006</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>LRA insurgency</name>
+    <start>1987</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>North Yemen Civil War</name>
+    <start>1962</start>
+    <end>1970</end>
+  </row>
+  <row>
+    <name>Ugandan Bush War</name>
+    <start>1981</start>
+    <end>1986</end>
+  </row>
+  <row>
+    <name>Lord&#x27;s Resistance Army insurgency</name>
+    <start>1987</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Insurgency in Laos</name>
+    <start>1975</start>
+    <end>2007</end>
+  </row>
+  <row>
+    <name>Congo Crisis</name>
+    <start>1960</start>
+    <end>1965</end>
+  </row>
+  <row>
+    <name>Bosnian War</name>
+    <start>1991</start>
+    <end>1995</end>
+  </row>
+  <row>
+    <name>Arab Israeli conflict</name>
+    <start>1948</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>1991 uprisings in Iraq</name>
+    <start>1991</start>
+    <end>1991</end>
+  </row>
+  <row>
+    <name>Angolan War of Independence</name>
+    <start>1961</start>
+    <end>1974</end>
+  </row>
+  <row>
+    <name>Kashmir Conflict</name>
+    <start>1947</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Sri Lankan Civil War</name>
+    <start>1983</start>
+    <end>2009</end>
+  </row>
+  <row>
+    <name>Iraq War</name>
+    <start>2014</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Internal conflict in Peru</name>
+    <start>1980</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Mozambican War of Independence</name>
+    <start>1964</start>
+    <end>1974</end>
+  </row>
+  <row>
+    <name>Ituri conflict</name>
+    <start>1999</start>
+    <end>2007</end>
+  </row>
+  <row>
+    <name>Sierra Leone Civil War</name>
+    <start>1991</start>
+    <end>2002</end>
+  </row>
+  <row>
+    <name>War in Afghanistan</name>
+    <start>2001</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>War in North West Pakistan</name>
+    <start>2004</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Kurdish Turkish conflict</name>
+    <start>1978</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Civil War</name>
+    <start>1991</start>
+    <end>2002</end>
+  </row>
+  <row>
+    <name>Nagorno Karabakh War</name>
+    <start>1988</start>
+    <end>1994</end>
+  </row>
+  <row>
+    <name>Iranian Kurdish conflict</name>
+    <start>1918</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Ethnic conflict in Nagaland</name>
+    <start>1954</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Soviet Japanese War</name>
+    <start>1945</start>
+    <end>1945</end>
+  </row>
+  <row>
+    <name>1991 uprisings in Iraq</name>
+    <start>1991</start>
+    <end>1991</end>
+  </row>
+  <row>
+    <name>CPP NPA NDF rebellion</name>
+    <start>1969</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Gulf War</name>
+    <start>1990</start>
+    <end>1991</end>
+  </row>
+  <row>
+    <name>Insurgency in Northeast India</name>
+    <start>1964</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Shia insurgency in Yemen</name>
+    <start>2004</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Rhodesian Bush War</name>
+    <start>1964</start>
+    <end>1979</end>
+  </row>
+  <row>
+    <name>Balochistan conflict</name>
+    <start>1948</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Croatian War of Independence</name>
+    <start>1991</start>
+    <end>1995</end>
+  </row>
+  <row>
+    <name>Nepalese Civil War</name>
+    <start>1996</start>
+    <end>2006</end>
+  </row>
+  <row>
+    <name>Nigerian Sharia conflict</name>
+    <start>1953</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>African Border War</name>
+    <start>1966</start>
+    <end>1990</end>
+  </row>
+  <row>
+    <name>Mau Uprising</name>
+    <start>1952</start>
+    <end>1960</end>
+  </row>
+  <row>
+    <name>Republic of the Congo Civil War</name>
+    <start>1997</start>
+    <end>1999</end>
+  </row>
+  <row>
+    <name>Naxalite Maoist insurgency</name>
+    <start>1967</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Kurdish separatism in Iran</name>
+    <start>1922</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Malayan Emergency</name>
+    <start>1948</start>
+    <end>1960</end>
+  </row>
+  <row>
+    <name>War in Donbass</name>
+    <start>2014</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Rwandan Civil War</name>
+    <start>1990</start>
+    <end>1993</end>
+  </row>
+  <row>
+    <name>Libyan Civil War</name>
+    <start>2011</start>
+    <end>2011</end>
+  </row>
+  <row>
+    <name>Yemeni Civil War</name>
+    <start>2015</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Chadian Civil War</name>
+    <start>2005</start>
+    <end>2010</end>
+  </row>
+  <row>
+    <name>Sudanese nomadic conflicts</name>
+    <start>2009</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>South Thailand insurgency</name>
+    <start>2004</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Casamance conflict</name>
+    <start>1982</start>
+    <end>2014</end>
+  </row>
+  <row>
+    <name>Libyan Civil War</name>
+    <start>2014</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Conflict in the Niger Delta</name>
+    <start>2004</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Al Qaeda insurgency in Yemen</name>
+    <start>1992</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>The Northern Ireland Troubles</name>
+    <start>1966</start>
+    <end>1998</end>
+  </row>
+  <row>
+    <name>Insurgency in the North Caucasus</name>
+    <start>2009</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Hungarian Revolution of 1956</name>
+    <start>1956</start>
+    <end>1956</end>
+  </row>
+  <row>
+    <name>Second Ivorian Civil War</name>
+    <start>2010</start>
+    <end>2011</end>
+  </row>
+  <row>
+    <name>Iranian Revolution</name>
+    <start>1978</start>
+    <end>1979</end>
+  </row>
+  <row>
+    <name>Sudan internal conflict</name>
+    <start>2011</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Sinai insurgency</name>
+    <start>2011</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Conflict in the Niger Delta</name>
+    <start>2004</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Israel Gaza conflict</name>
+    <start>2014</start>
+    <end>2014</end>
+  </row>
+  <row>
+    <name>Aden Emergency</name>
+    <start>1963</start>
+    <end>1967</end>
+  </row>
+  <row>
+    <name>Six Day War</name>
+    <start>2000</start>
+    <end>2000</end>
+  </row>
+  <row>
+    <name>South Kyrgyzstan ethnic clashes</name>
+    <start>2010</start>
+    <end>2010</end>
+  </row>
+  <row>
+    <name>War of Transnistria</name>
+    <start>1992</start>
+    <end>1992</end>
+  </row>
+  <row>
+    <name>South Yemen insurgency</name>
+    <start>2009</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>M23 rebellion</name>
+    <start>2012</start>
+    <end>2013</end>
+  </row>
+  <row>
+    <name>Allied Democratic Forces insurgency</name>
+    <start>1996</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Basque conflict</name>
+    <start>1959</start>
+    <end>2011</end>
+  </row>
+  <row>
+    <name>Kargil War</name>
+    <start>1999</start>
+    <end>1999</end>
+  </row>
+  <row>
+    <name>Political violence in Egypt, 2013</name>
+    <start>2013</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Cabinda conflict</name>
+    <start>1994</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Djiboutian Civil War</name>
+    <start>1991</start>
+    <end>1994</end>
+  </row>
+  <row>
+    <name>1991 92 South Ossetia War</name>
+    <start>1991</start>
+    <end>1992</end>
+  </row>
+  <row>
+    <name>Falklands War</name>
+    <start>1982</start>
+    <end>1982</end>
+  </row>
+  <row>
+    <name>2011 Egyptian revolution</name>
+    <start>2011</start>
+    <end>2011</end>
+  </row>
+  <row>
+    <name>Syrian Civil War spillover in Lebanon</name>
+    <start>2011</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Conflict in Najran, Jizan and Asir</name>
+    <start>2015</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Indonesia Malaysia confrontation</name>
+    <start>1963</start>
+    <end>1966</end>
+  </row>
+  <row>
+    <name>Burundian unrest</name>
+    <start>2015</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Russia Georgia war</name>
+    <start>2008</start>
+    <end>2008</end>
+  </row>
+  <row>
+    <name>Cyprus crisis</name>
+    <start>1955</start>
+    <end>1964</end>
+  </row>
+  <row>
+    <name>Sudanese conflict in South Kordofan and Blue Nile</name>
+    <start>2011</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>East Prigorodny Conflict</name>
+    <start>1992</start>
+    <end>1992</end>
+  </row>
+  <row>
+    <name>M23 rebellion</name>
+    <start>2012</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>RENAMO insurgency</name>
+    <start>2013</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Turkey ISIL conflict</name>
+    <start>2015</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Arab separatism in Khuzestan</name>
+    <start>1922</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Kasaï Central clashes</name>
+    <start>2016</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>ISIL insurgency in Tunisia</name>
+    <start>2015</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Dissident Irish Republican campaign</name>
+    <start>1998</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>2016 Kasese clashes</name>
+    <start>2016</start>
+    <end>2016</end>
+  </row>
+  <row>
+    <name>2013 Guinea clashes</name>
+    <start>2013</start>
+    <end>2013</end>
+  </row>
+  <row>
+    <name>Lahad Datu standoff</name>
+    <start>2013</start>
+    <end>2013</end>
+  </row>
+  <row>
+    <name>Paraguayan People&#x27;s Army insurgency</name>
+    <start>2005</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>Ten Day War</name>
+    <start>1991</start>
+    <end>1991</end>
+  </row>
+  <row>
+    <name>DHKP/C insurgency in Turkey</name>
+    <start>1990</start>
+    <end>present</end>
+  </row>
+  <row>
+    <name>2016 Niger Delta conflict</name>
+    <start>2016</start>
+    <end>present</end>
+  </row>
+</root>
